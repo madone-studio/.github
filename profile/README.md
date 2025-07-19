@@ -1,4 +1,4 @@
-# 🚀 MADONE Studio — We Build Games That Inspire
+# 🚀 [MADONE Studio](https://madone-studio.github.io/) — We Build Games That Inspire
 
  <p align="center">
   <img src="https://github.com/hoatv2211/hoatv2211.github.io/blob/main/assets/videos/intro.gif?raw=true" width="600"/>
@@ -40,7 +40,7 @@ Our mission? **Build games that inspire, connect, and bring joy to millions of p
 |--------------------|-------------------|------------------|------------------------------------------------|---------------------------|
 
 
-<sub>See more at our [Portfolio](https://hoatv2211.github.io/) and [Itch.io](https://o0-mad-0o.itch.io/)</sub>
+<sub>See more at our [Portfolio](https://madone-studio.github.io/)</sub>
 
 ---
 
@@ -60,11 +60,11 @@ Our mission? **Build games that inspire, connect, and bring joy to millions of p
 
 ## 🤝 Connect With Us
 
-- 🌐 **Website:** [MADONE Studio](https://hoatv2211.github.io/)
-- 🕹️ **Portfolio:** [Itch.io](https://o0-mad-0o.itch.io/)
-- 🏢 **LinkedIn:** [Tran Van Hoa](https://www.linkedin.com/in/hoatv/)
-- 📧 **Email:** hoatv.mad@gmail.com
-- 📱 **Telegram:** [@hoatv](https://t.me/Fish_Bros_bot)
+- 🌐 **Website:** [MADONE Studio](https://madone-studio.github.io/)
+- 🕹️ **Portfolio:** [HoaTV](https://hoatv2211.github.io/)
+- 🏢 **LinkedIn:** [HoaTV](https://www.linkedin.com/in/hoatv/)
+- 📧 **Email:**  madonestudiogame@gmail.com
+- 📱 **Telegram:** [@hoatv](@o0_MaD_0o)
 - 📺 **YouTube:** [Gameplay Demos](https://www.youtube.com/watch?v=2jsMmlp8tuc)
 - 🎮 **Google Play:** [Our Games](https://play.google.com/store/apps/dev?id=4917555335442358774)
 - 💾 **GitHub:** [@hoatv2211](https://github.com/hoatv2211)
