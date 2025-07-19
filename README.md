@@ -38,12 +38,9 @@ Our mission? **Build games that inspire, connect, and bring joy to millions of p
 
 | Project            | Platform          | Tech             | Description                                    | Link                      |
 |--------------------|-------------------|------------------|------------------------------------------------|---------------------------|
-| Nekoverse          | Android/iOS       | Unity, GameFi    | Turn-based RPG x Blockchain                    | [Play Store](https://play.google.com/store/apps/dev?id=8040121384216169189) |
-| Gabros Games       | Android/iOS/WebGL | Unity            | Sandwich/DOP/DIY/Puzzle casual game series     | [Itch.io](https://o0-mad-0o.itch.io/) |
-| Guardians of Kingdom | Android/iOS    | Unity, Node.js   | Idle RPG defense game                          | [Play Store](https://play.google.com/store/apps/dev?id=8040121384216169189) |
-| Outsource Projects | Multi-platform    | Unity, Blockchain| Web3, Metaverse, P2E, NFT Game Development     | [Portfolio](https://github.com/hoatv2211) |
 
-<sub>See more at our [Portfolio](https://github.com/hoatv2211) and [Itch.io](https://o0-mad-0o.itch.io/)</sub>
+
+<sub>See more at our [Portfolio](https://hoatv2211.github.io/) and [Itch.io](https://o0-mad-0o.itch.io/)</sub>
 
 ---
 
@@ -63,7 +60,7 @@ Our mission? **Build games that inspire, connect, and bring joy to millions of p
 
 ## 🤝 Connect With Us
 
-- 🌐 **Website:** [MADONE Studio](https://madone-studio.github.io/)
+- 🌐 **Website:** [MADONE Studio](https://hoatv2211.github.io/)
 - 🕹️ **Portfolio:** [Itch.io](https://o0-mad-0o.itch.io/)
 - 🏢 **LinkedIn:** [Tran Van Hoa](https://www.linkedin.com/in/hoatv/)
 - 📧 **Email:** hoatv.mad@gmail.com
